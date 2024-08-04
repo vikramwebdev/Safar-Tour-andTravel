@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Safar-Tour-andTravel/static/css/main.e45b02f9.css",
+    "main.js": "/Safar-Tour-andTravel/static/js/main.5b55e408.js",
+    "index.html": "/Safar-Tour-andTravel/index.html",
+    "main.e45b02f9.css.map": "/Safar-Tour-andTravel/static/css/main.e45b02f9.css.map",
+    "main.5b55e408.js.map": "/Safar-Tour-andTravel/static/js/main.5b55e408.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45b02f9.css",
+    "static/js/main.5b55e408.js"
+  ]
+}
